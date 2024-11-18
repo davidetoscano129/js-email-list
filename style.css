@@ -1,0 +1,19 @@
+body {
+    background-color: #f8f9fa;
+    font-family: Arial, sans-serif;
+}
+main {
+    margin-top: 50px;
+}
+ul {
+    padding: 0;
+    list-style: none;
+}
+li {
+    background: #fff;
+    margin: 10px 0;
+    padding: 10px 15px;
+    border: 1px solid #dee2e6;
+    border-radius: 5px;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
